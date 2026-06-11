@@ -11,11 +11,6 @@ Aplikasi ini dibuat menggunakan Python dan di-build menjadi file executable (.ex
 
 ---
 
-## 📥 Download
-👉 https://github.com/faisalrosyid/project-iseng/releases/tag/v1
-
----
-
 ## 🛠️ Dibuat dengan
 - Python
 - PyInstaller
